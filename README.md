@@ -1,4 +1,4 @@
-# microbiome-analysis-zero-inflated-models
+# Microbiome analysis with zero inflated models
 
 Rotation project for 2018, Feb to Apr.
 
